@@ -71,5 +71,5 @@ void playWar() {
 
 int main()
 {
-	return 0;
+	playWar();
 }
