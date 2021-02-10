@@ -9,4 +9,4 @@ public:
 		data = i;
 		next = nullptr;
 	}
-}
+};
