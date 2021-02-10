@@ -63,4 +63,4 @@ void Deck::MoveCardToSide() {
 int Deck::Peek() {
 	int temp = top->data;
 	return temp;
-
+}
