@@ -72,4 +72,4 @@ void playWar() {
 int main()
 {
 	playWar();
-
+}
