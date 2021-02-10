@@ -44,4 +44,4 @@ int SidePile::TakeFromPile() {
 	return temp;
 }
 
-int SidePile::TakeFromPile(){
+int SidePile::TakeFromPile(){}
